@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: pfun-na
+Version: 0.3
+Summary: Smart print function with colors and debug support
+Author: Naveen
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: summary
+
+Project description
