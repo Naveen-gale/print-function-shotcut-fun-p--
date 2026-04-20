@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="pfun-na",
-    version="0.4",
+    version="0.0.1",
     packages=find_packages(),
     description="Smart print function with colors",
     long_description=open("README.md", encoding="utf-8").read(),
