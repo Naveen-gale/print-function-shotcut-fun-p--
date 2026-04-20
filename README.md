@@ -1,1 +1,80 @@
-Project description
+# PrintPower 🔥
+
+A simple yet powerful replacement for Python's built-in `print()` function.
+
+---
+
+## 🚀 Features
+
+* ✅ Works like normal `print()`
+* 🎨 Colored output (success, error, warning, info, debug)
+* 🐞 Debug mode support
+* 🧠 Smart handling of inputs
+* ⚡ Lightweight and easy to use
+
+---
+
+## 📦 Installation
+
+```bash
+pip install pfun-na
+```
+
+---
+
+## 🧪 Usage
+
+```python
+from printpower import p
+
+# Normal print
+p("Hello World")
+
+# Colored output
+p("Success!", type="success")
+p("Error!", type="error")
+p("Warning!", type="warning")
+p("Info message", type="info")
+
+# Debug mode
+p("Debug message", type="debug", debug=True)
+```
+
+---
+
+## 🎯 Output Types
+
+| Type    | Color  |
+| ------- | ------ |
+| success | Green  |
+| error   | Red    |
+| warning | Yellow |
+| info    | Blue   |
+| debug   | Gray   |
+
+---
+
+## 💡 Why use PrintPower?
+
+`PrintPower` makes printing in Python more expressive and developer-friendly while keeping the simplicity of `print()`.
+
+---
+
+## 🔮 Future Updates
+
+* CLI support (`pfun "Hello"`)
+* File logging
+* Table printing
+* Progress bars
+
+---
+
+## 👨‍💻 Author
+
+Naveen
+
+---
+
+## ⭐ Support
+
+If you like this project, consider starring it ⭐ and sharing it!

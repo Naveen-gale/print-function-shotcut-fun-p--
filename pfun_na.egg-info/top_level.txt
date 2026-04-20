@@ -1,1 +1,1 @@
-printpower
+pfun_na
